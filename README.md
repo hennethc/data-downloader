@@ -1,2 +1,1 @@
-# CSharp-DataPollingProgram
 # data-downloader
